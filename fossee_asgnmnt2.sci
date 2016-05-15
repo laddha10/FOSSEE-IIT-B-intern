@@ -11,7 +11,7 @@ ieee(1);
 
 // Sankalp Gupta - jaipur engineering college & research centre
 // Tried to execute Part A quest 2  .. and completed it almost
-// please see readme file too .
+// Problem occuring in "coder" library in conversion
 
 
 
