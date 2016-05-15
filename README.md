@@ -2,7 +2,7 @@
 Submission: Assignment 2 by Sankalp Gupta
 Jaipur engineering college & research centre ,jaipur
 
-I tried to attempt Part A and also got positive outcome .
+I tried to attempt Assignment 2 of Part A and also got positive outcome .
 I was having neither background of scilab nor Matlab but I explore the basics of Matlab.
 Practising from basics to Standard questions ,I got confidence to appear for the test.
 Here, in assignment 2 of part A , I uses addme() function in Matlab code .
