@@ -5,9 +5,9 @@
        int z;
        int y;
        for (z = 0; z < 2; z++) {
-         c[z] = 0;
+         
          for (y = 0; y < 5; y++) {
-          c[z] += a[y] + b[y];
+          c[z] = a[y] + b[y];
         }
       }
     }
